@@ -1,4 +1,6 @@
-# my-website
+# Create Your Simple Website with Vue.js and Firebase
+
+Tutorial for [Medium](https://medium.com/better-programming/create-your-simple-website-with-vue-js-and-firebase-978cc424ec8e)
 
 ## Project setup
 ```
