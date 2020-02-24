@@ -8,10 +8,10 @@ Vue.config.productionTip = false
 Vue.use(VueMeta)
 
 var config = {
-  apiKey: "AIzaSyDB8hVpnbxUJ1GmR0Mx5gKfNu8j6y04FNM",
-  projectId: "my-website-fa3e5",
-  appId: "1:747831360877:web:bd2682ce40f36469242e64",
-  measurementId: "G-ZY3F5DL9HL"
+  apiKey: "",
+  projectId: "",
+  appId: "",
+  measurementId: ""
 };
 
 firebase.initializeApp(config)
